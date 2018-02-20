@@ -2,7 +2,7 @@
   "name": "skill-sample-js-trivia",
   "version": "1.0.0",
   "description": "A simple trivia skill i18n version.",
-  "main": "index.js",
+  "main": "sampleTriviaPython.py",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
