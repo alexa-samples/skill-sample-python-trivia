@@ -22,4 +22,4 @@ This simple "quiz" Skill will teach you how the different pieces of the Alexa Sk
 We use will use the new Skill builder UI to build the Skill although the quiz itself does not employ the new "Dialog-Delegate interface" model.
 
 
-<a href="step-by-step/1-voice-user-interface.md"><img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/general/buttons/button_get_started._TTH_.png" /></a>
+<a href="instructions/1-voice-user-interface.md"><img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/general/buttons/button_get_started._TTH_.png" /></a>
