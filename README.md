@@ -1,3 +1,6 @@
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 # _NOTE: This repo does not use the beta Python SDK which can be found here:_  https://github.com/alexa-labs/alexa-skills-kit-sdk-for-python/
 ### Samples based on the beta SDK can be found here: https://github.com/alexa-labs/alexa-skills-kit-sdk-for-python/tree/master/samples
 
